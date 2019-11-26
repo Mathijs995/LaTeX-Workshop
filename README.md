@@ -1,5 +1,5 @@
 # LaTeX Workshop
-Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jong](https://www.linkedin.com/in/mathijsdejong995/). This workshop was originally designed for a coding hours sessions hosted by Turing Students Rotterdam and has since been presented at multiple iterations of the [EFR/ESE job market skills week](https://www.efr.nl/education/efrese-job-market-skills) and the EUR Career Skills Week.
+Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jong](https://www.linkedin.com/in/mathijsdejong995/). This workshop was originally designed for a coding hours session hosted by Turing Students Rotterdam and has since been used for multiple iterations of the [EFR/ESE job market skills week](https://www.efr.nl/education/efrese-job-market-skills) and the EUR Career Skills Week.
 
 ## Table of contents
 - [Workshop slides](https://github.com/Mathijs995/LaTeX-Workshop/raw/master/LaTeX%20Workshop%20-%20Presentation.pdf)
