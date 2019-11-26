@@ -5,7 +5,7 @@ Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jo
 - [Workshop slides](https://github.com/Mathijs995/LaTeX-Workshop/raw/master/LaTeX%20Workshop%20-%20Presentation.pdf)
 
 ## I found a mistake or something is not clear, what do I do?
-Please file an issue or contact me. You would greatly help me out improve the workshop content!
+Please file an issue or send an email to mathijsdejong1995[at]gmail.com. You would greatly help out with improving the workshop.
 
 ## License
-This content is licensed under an MIT license, meaning you can use it for your own workshops. If you do, I would like to hear your feedback and share knowledge, so feel free to contact me at mathijsdejong1995 [at] gmail.com.
+This content is licensed under an MIT license, meaning you can use it for your own workshops. If you do, I would like to hear your feedback and share knowledge, so feel free to contact me at mathijsdejong1995[at]gmail.com.
