@@ -5,7 +5,7 @@ Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jo
 - [Workshop slides](https://github.com/Mathijs995/LaTeX-Workshop/raw/master/LaTeX%20Workshop%20-%20Presentation.pdf)
 - [Overleaf - Templates repository](https://www.overleaf.com/latex/templates)
 - [Overleaf - Learn LaTeX in 30 minutes](https://www.sharelatex.com/learn/latex/Learn_LaTeX_in_30_minutes)
-- [LaTeX Templates - Example Masters/Doctoral Thesis](https://www.latextemplates.com/template/masters-doctoral-thesis)
+- [LaTeX Templates - Example masters/doctoral thesis](https://www.latextemplates.com/template/masters-doctoral-thesis)
 
 ## I found a mistake or something is not clear, what do I do?
 Please file an issue or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com). You would greatly help out with improving the workshop.
