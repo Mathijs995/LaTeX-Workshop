@@ -8,7 +8,7 @@ Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jo
 - [LaTeX Templates - Example masters/doctoral thesis](https://www.latextemplates.com/template/masters-doctoral-thesis)
 
 ## Mistakes or Inconsistencies
-Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/LaTeX-Workshop/issues) here on GitHub or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com).
+Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/LaTeX-Workshop/issues) here on GitHub or [send me an email](mailto:mathijsdejong1995@gmail.com?subject="LaTeX Workshop - Issue report").
 
 ## Copyright and License
-Copyright 2018 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2018 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license, which means you can use this content for any purpose, even for commercial projects.
