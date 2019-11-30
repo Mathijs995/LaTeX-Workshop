@@ -7,8 +7,8 @@ Welcome to the Github repository of the LaTeX workshop created by [Mathijs de Jo
 - [Overleaf - Learn LaTeX in 30 minutes](https://www.sharelatex.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [LaTeX Templates - Example masters/doctoral thesis](https://www.latextemplates.com/template/masters-doctoral-thesis)
 
-## I found a mistake or something is not clear, what do I do?
-Please file an issue or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com). You would greatly help out with improving the workshop.
+## Mistakes or Inconsistencies
+Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/LaTeX-Workshop/issues) here on GitHub or send an email to [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com).
 
-## License
-This content is licensed under an MIT license, meaning you can use it for your own workshops. If you do, I would like to hear your feedback and share knowledge, so feel free to contact me at [mathijsdejong1995@gmail.com](mailto:mathijsdejong1995@gmail.com).
+## Copyright and License
+Copyright 2018 Mathijs de Jong. Content released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
